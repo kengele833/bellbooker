@@ -6,7 +6,7 @@ body, html {
     color:olivedrab;
 }
 header, footer {
-    background-color:blueviolet;
+    background-color:burlywood;
     color: #ffffff;
     text-align: center;
     padding: 1em 0;
@@ -106,14 +106,16 @@ img {
     flex-direction: rows;
     align-self: center;
     justify-content: space-around;
+    background-color: blue;
+
 }
 .logo img{
     border-radius: 900px;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 header nav a {
-    color: goldenrod;
+    color: green;
     margin: 0 15px;
     text-decoration: none;
 }
@@ -165,4 +167,37 @@ logo{
     flex-direction: rows;
     align-self: center;
     justify-content: space-around;
+}
+.fild{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color:brown;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.fild fieldset{
+    border-radius: 15px;
+}
+fieldset tanga{
+    background-color: white-blue;
+    color: dark-blue;
+    font-size: small;
+     width: 40%;
+    height: 40%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a {
+    margin: 15px;
+    background-color: wheat;
+    color: gold;
+    border-radius: 10px;
+   
+}
+
+a:hover {
+    color: red;
+    background-color: white;
+    border-radius: 5px;
 }

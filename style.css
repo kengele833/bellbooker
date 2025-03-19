@@ -29,6 +29,7 @@ header, footer {
             animation: blink 1s infinite;
             color: white; /* Optional: You can style the text further */
             font-size: 50px; /* Example font size */
+        }
 /*
 .container2 {
     display: flex;

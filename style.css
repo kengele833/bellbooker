@@ -27,7 +27,7 @@ header, footer {
         /* Apply animation to the text */
         .blink {
             animation: blink 1s infinite;
-            color: red; /* Optional: You can style the text further */
+            color: white; /* Optional: You can style the text further */
             font-size: 20px; /* Example font size */
 /*
 .container2 {

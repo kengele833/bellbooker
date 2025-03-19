@@ -128,6 +128,11 @@ img {
     border-radius: 20px;
 
 }
+.log h1{
+            animation: blink 1s infinite;
+            color: white; /* Optional: You can style the text further */
+            font-size: 50px; /* Example font size */
+}
 .logo img{
     border-radius: 900px;
     width: 150px;

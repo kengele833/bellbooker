@@ -2,7 +2,7 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color:black;
+    background-color:silver;
     color:olivedrab;
 }
 header, footer {
@@ -28,7 +28,7 @@ header, footer {
         .blink {
             animation: blink 5s infinite;
             color: white; /* Optional: You can style the text further */
-            font-size: 40px; /* Example font size */
+            font-size: 30px; /* Example font size */
         }
 /*
 .container2 {

@@ -26,10 +26,13 @@ header, footer {
 
         /* Apply animation to the text */
         .blink {
-            animation: blink 5s infinite;
+            animation: blink 4s infinite;
             color: white; /* Optional: You can style the text further */
             font-size: 30px; /* Example font size */
         }
+textarea{
+     margin-bottom: 350px;
+}
 /*
 .container2 {
     display: flex;
@@ -102,7 +105,7 @@ img {
 }
 
 .slide-in {
-    animation: slideIn 2s ease-in-out infinite alternate;
+    animation: slideIn 3s ease-in-out infinite alternate;
 }
 
 /* Scale-up-down animation */

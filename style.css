@@ -207,6 +207,7 @@ logo{
 }
 .fild fieldset{
     border-radius: 15px;
+    background-color: blueviolet;
 }
 fieldset tanga{
     background-color: white-blue;

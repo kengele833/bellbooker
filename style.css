@@ -160,6 +160,7 @@ main {
     display: flex;
     overflow: scroll;
     position: relative;
+    background-color:black;
 }
 .animated-images img {
     width: 100%;

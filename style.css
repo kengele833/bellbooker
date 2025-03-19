@@ -14,7 +14,7 @@ header, footer {
     
     
 }
- /* Keyframes for the blinking effect 
+ /* Keyframes for the blinking effect */
         @keyframes blink {
             0%, 100% {
                 opacity: 1;
@@ -22,7 +22,7 @@ header, footer {
             50% {
                 opacity: 0;
             }
-        }*/
+        }
 
         /* Apply animation to the text */
         .blink {

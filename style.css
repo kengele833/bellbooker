@@ -25,7 +25,7 @@ header, footer {
 
         /* Apply animation to the text */
         .blink {
-            animation: blink 7s infinite;
+            animation: blink 5s infinite;
             color: white; /* Optional: You can style the text further */
             font-size: 30px; /* Example font size */
         }
@@ -129,7 +129,7 @@ img {
 
 }
 .log0 blink{
-            animation: blink 9s infinite;
+            animation: blink 5s infinite;
             color: white; /* Optional: You can style the text further */
             font-size: 30px; /* Example font size */
 }

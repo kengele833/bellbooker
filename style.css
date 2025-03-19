@@ -28,7 +28,7 @@ header, footer {
         .blink {
             animation: blink 1s infinite;
             color: white; /* Optional: You can style the text further */
-            font-size: 50px; /* Example font size */
+            font-size: 40px; /* Example font size */
         }
 /*
 .container2 {
@@ -131,7 +131,7 @@ img {
 .log h1{
             animation: blink 1s infinite;
             color: white; /* Optional: You can style the text further */
-            font-size: 50px; /* Example font size */
+            font-size: 40px; /* Example font size */
 }
 .logo img{
     border-radius: 900px;

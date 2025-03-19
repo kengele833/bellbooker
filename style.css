@@ -225,3 +225,23 @@ a:hover {
     background-color: white;
     border-radius: 5px;
 }
+/* Footer styling */
+.footer {
+    background-color: #f1f1f1; /* Optional backgr
+    padding: 10px 0;
+    text-align: center; /* Center the icons horizo
+}
+/* Styling the icon container */
+.footer-icons {
+    display: inline-flex;
+    gap: 15px; /* Space between icons */
+}
+/* Styling the individual icons */
+.footer-icons a {
+    text-decoration: none; /* Remove underlines */
+    color: #000; /* Default icon color */
+    font-size: 24px; /* Adjust icon size */
+}
+.footer-icons a:hover {
+    color: #007bff; /* Change color on hover */
+}

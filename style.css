@@ -103,7 +103,7 @@ img {
 }
 
 .slide-in {
-    animation: slideIn 3s ease-in-out infinite alternate;
+    animation: slideIn 2s ease-in-out infinite alternate;
 }
 
 /* Scale-up-down animation */
@@ -130,7 +130,7 @@ img {
 
 }
 .log0 blink{
-            animation: blink 5s infinite;
+            animation: blink 9s infinite;
             color: white; /* Optional: You can style the text further */
             font-size: 30px; /* Example font size */
 }
@@ -152,8 +152,8 @@ main {
     padding: 2em 0;
 }
 .animated-images {
-    width: 25%;
-    height: 10%;
+    width: 50%;
+    height: 5%%;
     margin: 0 auto;
     display: flex;
     overflow: scroll;

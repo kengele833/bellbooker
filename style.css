@@ -13,6 +13,9 @@ header, footer {
     
     
 }
+textarea{
+    border-radius: 10px;
+}
  /* Keyframes for the blinking effect */
         @keyframes blink {
             0%, 100% {

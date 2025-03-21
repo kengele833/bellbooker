@@ -5,7 +5,7 @@ body, html {
     color:olivedrab;
 }
 header, footer {
-    background-color:pink;
+    background-color: rgb(201, 214, 30);
     color: silver;
     text-align: center;
     padding: 1em 0;
@@ -152,7 +152,7 @@ header nav a:hover {
 main {
     text-align: center;
     padding: 2em 0;
-    background-color:gold;
+    background-color:#52ace0;
     
 }
 .animated-images {

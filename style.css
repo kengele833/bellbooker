@@ -6,7 +6,7 @@ body, html {
 }
 header, footer {
     background-color:black;
-    color: #ffffff;
+    color: brown;
     text-align: center;
     padding: 1em 0;
     border-radius: 10px;
@@ -29,7 +29,7 @@ textarea{
         /* Apply animation to the text */
         .blink {
             animation: blink 5s infinite;
-            color: white; /* Optional: You can style the text further */
+            color: brown; /* Optional: You can style the text further */
             font-size: 30px; /* Example font size */
         }
 }
@@ -133,7 +133,7 @@ img {
 }
 .log0 blink{
             animation: blink 5s infinite;
-            color: white; /* Optional: You can style the text further */
+            color: brown; /* Optional: You can style the text further */
             font-size: 30px; /* Example font size */
 }
 .logo img{

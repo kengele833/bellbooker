@@ -29,7 +29,7 @@ textarea{
         /* Apply animation to the text */
         .blink {
             animation: blink 5s infinite;
-            color: brown; /* Optional: You can style the text further */
+            color: white; /* Optional: You can style the text further */
             font-size: 30px; /* Example font size */
         }
 }
@@ -133,7 +133,7 @@ img {
 }
 .log0 blink{
             animation: blink 5s infinite;
-            color: brown; /* Optional: You can style the text further */
+            color: white; /* Optional: You can style the text further */
             font-size: 30px; /* Example font size */
 }
 .logo img{
